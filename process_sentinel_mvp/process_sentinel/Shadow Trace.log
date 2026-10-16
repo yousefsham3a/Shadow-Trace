@@ -1,0 +1,7 @@
+2026-10-16 02:32:47,344 WARNING [LOW] PID 0 — System Idle Process (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
+2026-10-16 02:32:47,346 WARNING [LOW] PID 4 — System (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
+2026-10-16 02:32:47,347 WARNING [LOW] PID 188 — (unknown) (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
+2026-10-16 02:32:54,040 WARNING [MEDIUM] PID 0 — System Idle Process (score 30/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted) |   • Sustained high CPU usage (94.5% for 3 samples)
+2026-10-16 02:36:44,312 WARNING [LOW] PID 0 — System Idle Process (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
+2026-10-16 02:36:44,315 WARNING [LOW] PID 4 — System (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
+2026-10-16 02:36:44,317 WARNING [LOW] PID 188 — (unknown) (score 5/100) | Path: Unavailable |   • Executable path unavailable (may be access-restricted)
