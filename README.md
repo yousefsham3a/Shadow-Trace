@@ -138,11 +138,10 @@ Potential future improvements:
 - psutil
 - Linux / Kali Linux
 - Windows
-
-## 📄 License
-
-Add a license file before describing this project as open source.
-
 ---
+<img width="1280" height="800" alt="Screenshot_2026-10-16_04_24_48" src="https://github.com/user-attachments/assets/485f98df-281f-486f-b0f6-663832b10368" />
+<img width="960" height="504" alt="Screenshot 2026-10-16 043702" src="https://github.com/user-attachments/assets/67001a18-a5fe-4eba-b758-b6fe00a00f27" />
+
 
 **Shadow Trace** — Cross-platform process monitoring and analysis.
+
